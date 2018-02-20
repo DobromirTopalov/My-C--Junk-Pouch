@@ -1,0 +1,7 @@
+https://github.com/triffon/oop-2016-17/tree/e8cd7efe8aa0c24e8db6f6c6276f842e0b351373/rational
+
+https://github.com/triffon/oop-2016-17/blob/ac940e89c0120800fdfbf33dc58cdb1549388a37/stack/main.cpp
+
+http://www.drdobbs.com/casting-in-c/184403316
+
+http://www.drdobbs.com/cpp/multiple-inheritance-considered-useful/184402074
