@@ -1,8 +1,7 @@
-# My-Cpp-Junk-Pouch
-Basic problem solutions, Exercises.
-Hints, Tips, Useful Links, Resources.
+# My-Cpp-Junk-Pouch 
+(2017 start of summer - last changes / 2018 - removed useless files and did small directory changes)
 
-Some algorithms/implementations and much more ...
 
-                                                    .. for newbie by newbie :) 
+  Basic problem solutions, Exercises and HWs..
 
+                                            ..my very first steps in coding!
