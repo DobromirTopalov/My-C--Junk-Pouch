@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\dob\fmi doclock\fmi prog\bs c++ practices\mobile plans\source.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  Mobile plans.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\BS c++ practices\Mobile plans\Debug\Mobile plans.exe
+  Mobile plans.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\BS c++ practices\Mobile plans\Debug\Mobile plans.pdb (Full PDB)

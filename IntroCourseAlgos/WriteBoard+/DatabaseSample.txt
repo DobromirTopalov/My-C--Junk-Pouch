@@ -1,0 +1,13 @@
+Name of Person: DobaOOD
+Age: 10
+Job: Black
+Payday: 13689Name of Person: DobaEAD
+Age: 15
+Job: Green
+Payday: 17804Name of Person: DobaOOD
+Age: 18
+Job: Red
+Payday: 98010Name of Person: DobaEAD
+Age: 25
+Job: Blue
+Payday: 11111

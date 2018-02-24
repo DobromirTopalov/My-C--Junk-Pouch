@@ -1,0 +1,18 @@
+﻿  Source.cpp
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(56): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(58): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(87): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(89): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(99): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(105): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(121): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(137): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(150): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(152): warning C4018: '<': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\bitmapcrop\crop\source.cpp(176): warning C4018: '<': signed/unsigned mismatch
+  CROP.vcxproj -> D:\DoB\FMI DocLock\FMI AGAIN\UP\Second Ass\bitmapCROP\CROP\Debug\CROP.exe
+  CROP.vcxproj -> D:\DoB\FMI DocLock\FMI AGAIN\UP\Second Ass\bitmapCROP\CROP\Debug\CROP.pdb (Full PDB)

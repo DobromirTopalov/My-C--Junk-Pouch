@@ -1,0 +1,6 @@
+﻿  example.cpp
+d:\dob\fmi doclock\fmi again\up\second ass\rays\rays\example.cpp(133): warning C4018: '<=': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\rays\rays\example.cpp(266): warning C4018: '<=': signed/unsigned mismatch
+d:\dob\fmi doclock\fmi again\up\second ass\rays\rays\example.cpp(537): warning C4715: 'findPointOfIntersectOnCircle': not all control paths return a value
+  Rays.vcxproj -> D:\DoB\FMI DocLock\FMI AGAIN\UP\Second Ass\Rays\Debug\Rays.exe
+  Rays.vcxproj -> D:\DoB\FMI DocLock\FMI AGAIN\UP\Second Ass\Rays\Debug\Rays.pdb (Full PDB)

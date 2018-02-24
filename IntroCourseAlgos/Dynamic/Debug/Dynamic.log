@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\dob\fmi doclock\fmi prog\cache\dynamic\main.cpp(16): warning C4715: 'operator<<': not all control paths return a value
+  Dynamic.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\Cache\Dynamic\Debug\Dynamic.exe
+  Dynamic.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\Cache\Dynamic\Debug\Dynamic.pdb (Full PDB)

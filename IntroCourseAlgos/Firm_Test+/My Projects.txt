@@ -1,0 +1,48 @@
+	Company: EngBD
+	Project: Polygon
+	Category: Ultra Wide
+	Floors: 25000
+	Beginning of Project: 02.02.2016
+	Deadline: 07.11.2017
+	Contents : A big parking space with security guards and carwash nearby
+	Price : 137690
+	___________________________________________________________
+	Company: EngBD
+	Project: Albena_26A
+	Category: A++
+	Floors: 960
+	Beginning of Project: 04.08.1989
+	Deadline: 06.07.1991
+	Contents : Flat Appartment Complex with its own kindergarden,shops,nature parks and parking/biking infrastructure
+	Price : 687145
+	___________________________________________________________
+	Company: EngBD
+	Project: Bulgaria
+	Category: Extreme Lux
+	Floors: 901456
+	Beginning of Project: 11.03.2007
+	Deadline: 12.12.2012
+	Contents : Biggest highway project,connects every town in the country and has 8 lanes with 2xEmergency lanes.A lot of gas/electric stations as well as places to have dinner and WC
+	Price : 9.08541e+08
+	___________________________________________________________
+	Company: EngBD
+	Project: The Black Pearl
+	Category:  
+	Floors: 42
+	Beginning of Project: 07.07.2000
+	Deadline: --.--.----
+	Contents : Everything in the known and unknown world
+	Price : 1e+11
+	___________________________________________________________
+	Company: EngBD
+	Project: Albena_13B
+	Category: Z--
+	Floors: 120
+	Beginning of Project: 01.01.2011
+	Deadline: 02.02.2013
+	Contents : Small Flat Appartment Complex within the town of Kirdjhaaalye
+	Price : 356664
+	___________________________________________________________
+
+
+File successfully written!GJ!

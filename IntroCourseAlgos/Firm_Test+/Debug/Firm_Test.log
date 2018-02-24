@@ -1,0 +1,16 @@
+﻿  Block.cpp
+  Generating Code...
+  Compiling...
+  Main.cpp
+d:\dob\fmi doclock\fmi prog\bs c++ practices\firm_test\main.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dob\fmi doclock\fmi prog\bs c++ practices\firm_test\main.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dob\fmi doclock\fmi prog\bs c++ practices\firm_test\main.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dob\fmi doclock\fmi prog\bs c++ practices\firm_test\main.cpp(23): warning C4305: 'argument': truncation from '__int64' to 'float'
+  House.cpp
+  Highway.cpp
+  CarPark.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Project.cpp
+  Firm_Test.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\BS c++ practices\Firm_Test\Debug\Firm_Test.exe
+  Firm_Test.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\BS c++ practices\Firm_Test\Debug\Firm_Test.pdb (Full PDB)

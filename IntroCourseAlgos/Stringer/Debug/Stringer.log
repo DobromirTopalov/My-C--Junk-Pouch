@@ -1,0 +1,9 @@
+﻿  Stringercore.cpp
+d:\dob\fmi doclock\fmi prog\cache\stringer\stringercore.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+  Compiling...
+  Mystring.cpp
+  Generating Code...
+  Stringer.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\Cache\Stringer\Debug\Stringer.exe
+  Stringer.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\Cache\Stringer\Debug\Stringer.pdb (Full PDB)

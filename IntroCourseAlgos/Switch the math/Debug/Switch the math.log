@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\dob\fmi doclock\fmi prog\bs c++ practices\switch the math\source.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\dob\fmi doclock\fmi prog\bs c++ practices\switch the math\source.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\dob\fmi doclock\fmi prog\bs c++ practices\switch the math\source.cpp(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\dob\fmi doclock\fmi prog\bs c++ practices\switch the math\source.cpp(31): warning C4715: 'powerN': not all control paths return a value
+d:\dob\fmi doclock\fmi prog\bs c++ practices\switch the math\source.cpp(58): warning C4715: 'rootN': not all control paths return a value
+d:\dob\fmi doclock\fmi prog\bs c++ practices\switch the math\source.cpp(49): warning C4715: 'sqrootN': not all control paths return a value
+  Switch the math.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\BS c++ practices\Switch the math\Debug\Switch the math.exe
+  Switch the math.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\BS c++ practices\Switch the math\Debug\Switch the math.pdb (Full PDB)

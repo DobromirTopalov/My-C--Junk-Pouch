@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\dob\fmi doclock\fmi prog\bs c++ practices\minigame\source.cpp(189): warning C4715: 'randombonus': not all control paths return a value
+  MiniGame.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\BS c++ practices\MiniGame\Debug\MiniGame.exe
+  MiniGame.vcxproj -> D:\DoB\FMI DocLock\FMI Prog\BS c++ practices\MiniGame\Debug\MiniGame.pdb (Full PDB)
