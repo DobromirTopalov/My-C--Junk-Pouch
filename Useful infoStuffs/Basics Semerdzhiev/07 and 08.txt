@@ -1,7 +1,0 @@
-7th lecture:
-recursion: http://www.cplusplus.com/articles/D2N36Up4/
-recursion: http://www.cprogramming.com/tutorial/lesson16.html
-recursion exmpls: http://web.eecs.utk.edu/~cs102/lectures/recursion.html
-
-8th lecture:
-stack: http://phrack.org/issues/49/14.html
